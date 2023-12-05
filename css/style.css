@@ -580,6 +580,6 @@ margin-right: 76px;
 .modal-close-btn {
     padding: 0;
     background-color: transparent;
-    border: none;
+    /* border: none; */
     stroke: #2E2F42;
-}
+}   
